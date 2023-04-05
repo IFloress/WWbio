@@ -1,2 +1,2 @@
-# WWbio
-Project for the course B7WEB
+# WalterWhite
+Exercicio do curso B7WEB
